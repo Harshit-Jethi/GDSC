@@ -1,0 +1,28 @@
+h2{
+    text-align: CENTER;
+}
+p{
+    text-align: CENTER;
+}
+h1{
+    text-align: CENTER;
+}
+table{
+    border: solid;
+}
+table{
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+table,th,td{
+    border: 2px solid #000;
+    border-collapse: collapse;
+}
+button{
+    background-color: green;
+    color: white;
+}
+form{
+    text-align: center;
+}
